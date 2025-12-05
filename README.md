@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+<div align="center">
 
 # 👋 Hey there, I'm Ahmed Midani
 
@@ -7,10 +11,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
 
 ###
 
@@ -31,8 +31,6 @@
 
 ###
 
----
-
 <div align="center">
 
 ## 📊 GitHub Statistics
@@ -41,5 +39,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=midaniahmed&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" height="170" alt="streak stats" />
 
 </div>
-
----

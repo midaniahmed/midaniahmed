@@ -22,3 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/snake.svg" alt="Snake animation" />
+
+###

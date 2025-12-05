@@ -1,18 +1,14 @@
 <div align="center">
-  
-# 👋 Hey there, I'm Ahmed Midani
-
-### 💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
-
-<br/>
 
 <a href="https://www.linkedin.com/in/ahmed-midani-a7a68310b" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
 </a>
 
+#### 💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
+
 </div>
 
----
+<br />
 
 <div align="center">
 
@@ -32,8 +28,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## 📊 GitHub Statistics
@@ -47,8 +41,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## 🐍 Contribution Snake
@@ -56,8 +48,6 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/snake.svg" alt="Snake animation" />
-
----
 
 <div align="center">
 
@@ -71,8 +61,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
 <div align="center">
 
 ### 💬 Let's Connect!
@@ -81,8 +69,6 @@
 [![Profile views](https://komarev.com/ghpvc/?username=midaniahmed&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/midaniahmed)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />

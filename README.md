@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
+
+# 👋 Hey there, I'm Ahmed Midani
+
+### 💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
+
+</div>
 
 ###
 
@@ -25,6 +31,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=midaniahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="170" alt="stats graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=midaniahmed&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" height="170" alt="streak stats" />
+
+</div>
+
+---

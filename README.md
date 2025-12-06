@@ -29,13 +29,11 @@
 </div>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+</div>
+<div align="center">
 
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=midaniahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="170" alt="stats graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=midaniahmed&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" height="170" alt="streak stats" />
-
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=midaniahmed&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" height="200" alt="streak stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midaniahmed&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="200" alt="languages graph" />
 
@@ -45,21 +43,20 @@
 
 ## 🐍 Contribution Snake
 
+<img src="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/snake.svg" alt="Snake animation" height="200" />
 </div>
-
-<img src="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
 
 ## 🎮 Contribution Activity
-
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/midaniahmed/midaniahmed/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
 
 <div align="center">
 
